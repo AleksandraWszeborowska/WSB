@@ -1,0 +1,2 @@
+# WSB
+ Projekt pracy dyplomowej
